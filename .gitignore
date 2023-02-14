@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+/venv/
+/pyvenv.cfg
+/.idea/
+/etc/
+/Lib/
+/Scripts/
+/design/
+/share/
+/share/jupyter/nbextensions/pydeck/
